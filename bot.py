@@ -15,7 +15,7 @@ import requests
 # bc1qesjaxfad8f8azu2cp4gsvt2j9a4yshsc2swey9  Биткоин кошелёк
 
 # ВЕРСИЯ СКРИПТА 1.2
-token='5659648823:AAHyIE-L91QpugrnCVfDZs46CZqY_VCjfOA' # ключ апи бота
+token='5635574836:AAHVI1w4fdR4fbepZH9OoiBApcDLqGgSMuc' # ключ апи бота
 usernames=[]
 usernames.append('matkarimov') # Добавляем логины телеграма для администраторирования бота. Строчек может быть несколько
 # следующие две строки заполняются с сайта https://my.telegram.org/apps
